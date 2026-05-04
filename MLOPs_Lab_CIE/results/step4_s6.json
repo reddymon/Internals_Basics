@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "commuhealth-outbreak-risk-score-predictor",
+    "version": 1,
+    "run_id": "dummy_run",
+    "source_metric": "rmse",
+    "source_metric_value": 0.0
+}

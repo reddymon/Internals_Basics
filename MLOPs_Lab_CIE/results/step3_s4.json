@@ -1,0 +1,16 @@
+{
+    "health_endpoint": "/heartbeat",
+    "predict_endpoint": "/forecast",
+    "port": 8888,
+    "health_response": {
+        "status": "healthy",
+        "model_loaded": true
+    },
+    "test_input": {
+        "population_density": 3701,
+        "vaccination_pct": 56.9,
+        "sanitation_index": 5.3,
+        "rainfall_mm": 193.9
+    },
+    "prediction": 50.0
+}
